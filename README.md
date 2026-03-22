@@ -65,38 +65,6 @@ python -m streamlit run app.py
 4. Open in browser:
 http://localhost:8502/
 
----
-
-## 📊 Screenshots / Visual Showcase
-
-Dashboard Home:
-![Dashboard Home](dataset_upload.png)
-
-Dataset Upload:
-![Dataset Upload](path_to_screenshot.png)
-
-Interactive Charts & KPIs:
-![Charts & KPIs](path_to_screenshot.png)
-
-Correlation Heatmap:
-![Correlation Heatmap](path_to_screenshot.png)
-
-Filters in Action:
-![Filters](path_to_screenshot.png)
-
-Predictive Feature (Optional):
-![Prediction](path_to_screenshot.png)
-
----
-
-## 🔮 Predictive Feature
-
-- Implemented a linear regression model to forecast trends based on uploaded datasets.
-- Examples:
-  - Predict next month’s sales for top products
-  - Forecast student performance or grades
-  - Predict healthcare metrics like patient risk scores
-- Displayed predictions dynamically in the dashboard alongside visualizations.
 
 ---
 
