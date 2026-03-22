@@ -70,7 +70,7 @@ http://localhost:8502/
 ## 📊 Screenshots / Visual Showcase
 
 Dashboard Home:
-![Dashboard Home]("C:\Users\rishi\Downloads\dataset_upload.png")
+![Dashboard Home](dataset_upload.png)
 
 Dataset Upload:
 ![Dataset Upload](path_to_screenshot.png)
