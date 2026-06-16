@@ -63,7 +63,7 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 
 4. Open in browser:
-http://localhost:8502/
+https://dynamic-data-analytics-dashboard-u5mayxvi2qfgx64yakagve.streamlit.app/
 
 
 ---
